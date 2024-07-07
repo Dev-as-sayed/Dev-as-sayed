@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [A M Sayed]! 👋
 
-Detail-oriented entry-level MERN stack web developer with a strong foundation in JavaScript, React, Node.js, and MongoDB. Seeking an opportunity to apply academic knowledge and practical skills to contribute to innovative web development projects. Committed to ongoing learning and keeping abreast of advancements in the dynamic field of web development.
+Detail-oriented MERN stack web developer with a strong foundation in JavaScript, React, Node.js, and MongoDB. Seeking an opportunity to apply academic knowledge and practical skills to contribute to innovative web development projects. Committed to ongoing learning and keeping abreast of advancements in the dynamic field of web development.
 
 ## 🚀 About Me
 
