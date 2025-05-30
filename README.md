@@ -5,7 +5,7 @@ Detail-oriented **MERN stack web & app developer** currently pursuing a degree i
 ## 🚀 About Me
 
 - 🎓 **Current Study:** Software Engineering @ China West Normal University
-- 🌐 **Website:** [amsayed.netlify.app](https://amsayed.netlify.app/)
+- 🌐 **Website:** [amsayed.netlify.app](https://amsayeed.netlify.app/)
 - 💼 **LinkedIn:** [a-m-sayed](https://www.linkedin.com/in/a-m-sayed)
 - 📫 **Email:** amsayed231@gmail.com
 
