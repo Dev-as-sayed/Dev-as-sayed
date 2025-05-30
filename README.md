@@ -1,45 +1,42 @@
 # Hi there, I'm [A M Sayed]! 👋
 
-Detail-oriented MERN stack web developer with a strong foundation in JavaScript, React, Node.js, and MongoDB. Seeking an opportunity to apply academic knowledge and practical skills to contribute to innovative web development projects. Committed to ongoing learning and keeping abreast of advancements in the dynamic field of web development.
+Detail-oriented **MERN stack web developer** currently pursuing a degree in Software Engineering at **China West Normal University**. I bring a strong foundation in JavaScript, React, Node.js, and MongoDB, with growing experience in Next.js, React Native (Expo), and deployment on VPS. Seeking an opportunity to apply both academic knowledge and hands-on project experience to innovative web development projects. Passionate about continuous learning and building scalable, user-focused web applications.
 
 ## 🚀 About Me
 
+- 🎓 **Current Study:** Software Engineering @ China West Normal University
 - 🌐 **Website:** [amsayed.netlify.app](https://amsayed.netlify.app/)
-- 💼 **LinkedIn:** [a-m-sayed](www.linkedin.com/in/a-m-sayed)
+- 💼 **LinkedIn:** [a-m-sayed](https://www.linkedin.com/in/a-m-sayed)
 - 📫 **Email:** assayed277@gmail.com
 
 ## 🛠️ Technologies & Tools
 
-- **Front-end:** React, Redux, HTML5, CSS, JavaScript (ES6+), Typescript
+- **Front-end:** React, React Native (Expo), Redux, Next.js, HTML5, CSS, JavaScript (ES6+), TypeScript
 - **Back-end:** Node.js, Express.js
 - **Database:** MongoDB, Mongoose
 - **Version Control:** Git, GitHub
-- **Deployment:** Netlify, vercel
+- **Deployment:** Netlify, Vercel, VPS
 - **Others:** JWT, Zod, Postman, Figma
 
 ## 📈 GitHub Stats
 
-<!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
-
+<!-- ![A M Sayed's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical) -->
 
 ## 📚 Learning & Development
 
-I am always eager to learn new technologies and improve my skills. Currently, I am focusing on:
-- Next.js
+I'm constantly learning and expanding my skill set. Currently focusing on:
+- Next.js (Full Stack Applications)
 - GraphQL
-- TypeScript
+- TypeScript (Advanced Usage)
+- System Design & Scalable Architecture
 
 ## 🤝 Let's Connect
 
-I am open to collaborations, freelance opportunities, and discussions. Feel free to reach out to me through any of the platforms listed above. Let's build something amazing together!
+I'm open to freelance projects, collaborations, internships, and tech discussions. Feel free to connect via:
+- 🌐 [Portfolio](https://amsayed.netlify.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/a-m-sayed)
+- 📧 [Email](mailto:assayed277@gmail.com)
 
 ---
 
