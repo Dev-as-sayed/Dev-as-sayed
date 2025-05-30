@@ -20,8 +20,8 @@ Detail-oriented **MERN stack web & app developer** currently pursuing a degree i
 
 ## 📈 GitHub Stats
 
-<!-- ![A M Sayed's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical) -->
+![A M Sayed's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical) 
 
 ## 📚 Learning & Development
 
