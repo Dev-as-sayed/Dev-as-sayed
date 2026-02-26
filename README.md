@@ -45,6 +45,7 @@ I specialize in transforming ideas into production-ready, user-focused digital p
 
 * MongoDB
 * Mongoose
+* Postgres
 * Prisma (basic usage)
 
 ### ⚙️ DevOps & Deployment
@@ -66,13 +67,12 @@ I specialize in transforming ideas into production-ready, user-focused digital p
 
 ## 📊 GitHub Stats
 
-```md
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-as-sayed&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-as-sayed&layout=compact&theme=radical)
-```
 
-> 🔧 Replace `YOUR_USERNAME` with your actual GitHub username.
+
 
 ---
 
