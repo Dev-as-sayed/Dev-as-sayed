@@ -67,14 +67,10 @@ I specialize in transforming ideas into production-ready, user-focused digital p
 
 ## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-as-sayed&show_icons=true&theme=radical&count_private=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-as-sayed&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-as-sayed&layout=compact&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-as-sayed&layout=compact&theme=radical)
-
-
-
----
 
 ## 🔥 Current Focus
 
