@@ -1,9 +1,3 @@
-Below is a **refined, professional, and conversion-focused GitHub profile README** tailored to your current positioning (MERN + Next.js + React Native + VPS + Blockchain learning + agency mindset).
-
-You can copy and use this directly in your `README.md`.
-
----
-
 # Hi, I'm A M Sayed 👋
 
 🚀 **Full-Stack MERN Developer | Next.js & React Native (Expo) | Software Engineering Student**
