@@ -67,9 +67,9 @@ I specialize in transforming ideas into production-ready, user-focused digital p
 ## 📊 GitHub Stats
 
 ```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-as-sayed&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-as-sayed&layout=compact&theme=radical)
 ```
 
 > 🔧 Replace `YOUR_USERNAME` with your actual GitHub username.
@@ -116,10 +116,4 @@ I specialize in transforming ideas into production-ready, user-focused digital p
 
 If you're looking for a **reliable full-stack developer who understands both frontend experience and backend architecture**, let's connect.
 
----
 
-If you want, I can now:
-
-* Optimize this for **international clients**
-* Make a **minimal clean version**
-* Or create a **high-conversion agency-style version** focused on selling services 🚀
